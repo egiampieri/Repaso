@@ -1,1 +1,2 @@
-console.log(lucero);
+console.log("Lucero");
+console.log("Evelyn Natalia")
